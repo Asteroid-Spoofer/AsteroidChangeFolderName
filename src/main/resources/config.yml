@@ -1,0 +1,5 @@
+# Make sure by default the jar names are
+# - Asteroid
+# - AsteroidLibs
+current_file_name: "Asteroid" # What searches for if it contains
+new_file_name: "AFKRewardsAuth"

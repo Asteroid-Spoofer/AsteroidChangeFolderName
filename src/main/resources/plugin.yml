@@ -1,0 +1,7 @@
+name: AsteroidChangeFolderName
+version: '${version}'
+main: me.serbob.asteroidchangefoldername.AsteroidChangeFolderName
+api-version: '1.20'
+load: STARTUP
+load_before:
+  - "Asteroid"
